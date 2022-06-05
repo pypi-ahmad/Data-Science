@@ -1,0 +1,16 @@
+{
+ "Gamma": 4.578308e-117,
+"Sigma":        2,
+"WeeklyBeta": [        0,        0,        0,        0,        0,        0,        0,        0 ],
+"RecentBeta":        0,
+"BetaScales": [ 0.999996, 1.000013, 1.000009, 0.9999683, 0.9999983, 0.9999812, 1.000024 ],
+"WeeklyR0": [        0,        0,        0,        0,        0,        0,        0,        0 ],
+"RecentR0":        0,
+"FirstDayNum": 56.00057,
+"FirstDayInfectedCount": 1988.252,
+"FirstDayExposedCount": 2021.682,
+"PeakDayNum": 74,
+"PeakDayInfectedCount": 4009.934,
+"TotalPopulation": 8822000,
+"Loss": 2686.026 
+}
